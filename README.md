@@ -1,6 +1,8 @@
 
 # About
 
+This had been move to [iOS FMWebViewJavascriptBridge](https://github.com/carlSQ/FMWebViewJavascriptBridge) and [Android FMWebViewJSBridge](https://github.com/carlSQ/FMWebViewJSBridge)
+
 FMWebViewJavascriptBridge inspired by [WebViewJavascripBridge](http://git.elenet.me/arch.iOS/ELMWebViewJavascriptBridge/blob/developer/WebViewJavascripBridge.md) and [react native](https://github.com/facebook/react-native)
 
 you can call native method like android( object.method() ), native communicate with js by json(if native return custom object ,you must
